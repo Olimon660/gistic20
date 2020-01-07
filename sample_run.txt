@@ -1,0 +1,1 @@
+gp_gistic2_from_seg -b './results_broad_alt' -seg './gistic_segs/cnv_gistic_broad_ALT.txt' -refgene './refgenefiles/hg19.mat' -v 20 -genegistic 1 -smallmem 1 -broad 1 -brlen 0.5 -conf 0.90 -armpeel 1 -savegene 1 -gcm extreme
